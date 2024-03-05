@@ -1,28 +1,44 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2024-02-15T06:19:53.758Z"
-        },
-        {
-            "id": 2,
-            "description": "Hambúrguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 60,
-            "createdAt": "2024-02-15T06:10:53.758Z"
-        },
-        {
-            "id": 3,
-            "description": "Monitor",
-            "type": "outcome",
-            "category": "Periféricos",
-            "price": 2500,
-            "createdAt": "2024-02-15T06:17:53.758Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-02-15T06:19:53.758Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2024-02-15T06:10:53.758Z"
+    },
+    {
+      "id": 3,
+      "description": "Monitor",
+      "type": "outcome",
+      "category": "Periféricos",
+      "price": 2500,
+      "createdAt": "2024-02-15T06:17:53.758Z"
+    },
+    {
+      "description": "Refrigerante",
+      "price": 32,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-03-05T13:31:38.692Z",
+      "id": 4
+    },
+    {
+      "description": "Sopa de Legumes",
+      "price": 40,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-03-05T14:20:33.507Z",
+      "id": 5
+    }
+  ]
 }
